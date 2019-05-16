@@ -18,3 +18,8 @@
     var s = document.querySelector("#ad-full-page");
     if (s) s.remove();
 })();
+xample
+document.body.oncontextmenu="return true";
+document.body.onselectstart="return true";
+document.body.ondragstart="return true";
+document.body.style="";
